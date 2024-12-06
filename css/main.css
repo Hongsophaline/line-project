@@ -32,7 +32,7 @@ body {
 
 .container {
   padding: 0 3.2rem;
-  max-width: 120rem;
+  max-width: 130rem;
   margin: 0 auto;
 }
 
@@ -507,9 +507,8 @@ h5 {
   margin-left: 0;
   border: #8b4a48;
   position: relative;
-  
 }
-.box-1{
+.box-1 {
   width: 700px;
   height: 100px;
   background-color: white;
@@ -535,7 +534,7 @@ h5 {
   margin-top: 30px;
   margin-left: 30px;
 }
-.box-2{
+.box-2 {
   width: 700px;
   height: 100px;
   background-color: white;
@@ -574,13 +573,12 @@ h5 {
   margin-left: 30px;
 }
 
-
 Footer .footer {
   /* background-color: whitesmoke; */
   color: var(--gray-color-3);
   margin-top: 30px;
 }
-.box-f{
+.box-f {
   width: 100%;
   height: 250px;
   background-color: whitesmoke;
