@@ -48,6 +48,7 @@
 
   .project-box {
     max-width: 45.4rem;
+   
   }
 
   .about,
@@ -60,6 +61,7 @@
 @media (max-width: 977px) {
   html {
     font-size: 62%;
+    margin-top: 10px;
   }
 
   .container {
@@ -136,7 +138,7 @@
 
   .hero-greeting {
     font-size: 1.6rem;
-  }
+  } <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
   .hero-heading {
     font-size: 5.2rem;
   }

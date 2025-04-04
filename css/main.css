@@ -392,6 +392,7 @@ h5 {
 .projects {
   padding: 10rem 0;
   background-color: var(--primary-bg-color);
+  
 }
 
 .projects-title {
@@ -484,11 +485,16 @@ h5 {
 .contact {
   padding: 10rem 0;
   text-align: center;
+  
+  
 }
+
 
 .contact-title {
   margin-bottom: 4rem;
+  /* background-color: burlywood */
 }
+
 
 .contact-content {
   font-size: 1.8rem;
@@ -503,10 +509,11 @@ h5 {
 .contanar {
   width: 100%;
   height: 600px;
-  background-color: whitesmoke;
+  background-color: rgba(0, 0, 255, 0.123);
   margin-left: 0;
   border: #8b4a48;
   position: relative;
+  margin-top: 100px;
 }
 .box-1 {
   width: 700px;
@@ -577,11 +584,14 @@ Footer .footer {
   /* background-color: whitesmoke; */
   color: var(--gray-color-3);
   margin-top: 30px;
+  margin: 0;
+  
 }
 .box-f {
   width: 100%;
   height: 250px;
-  background-color: whitesmoke;
+  background-color: rgba(0, 0, 255, 0.123);
+  margin-left: 0;
   top: 50px;
 }
 
